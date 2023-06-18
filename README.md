@@ -1,0 +1,2 @@
+# PPYProjektZaliczeniowy
+Projekt zaliczeniowy kNN
